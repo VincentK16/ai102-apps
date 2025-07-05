@@ -2,7 +2,7 @@
 
 A powerful Streamlit web application that enables interactive conversations about images using Azure AI/OpenAI vision models. Upload any image URL and ask questions to get detailed AI-powered analysis and insights.
 
-
+<video src="https://github.com/VincentK16/ai102-apps/blob/main/vision/visionchat.mp4"></video>
 
 ## ✨ Features
 
